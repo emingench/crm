@@ -1,5 +1,9 @@
 *.log
 *.pot
 *.pyc
+*.venv/
+venv
 __pycache__/
+crm1/__pycache__
+accounts/__pycache__
 local_settings.py
